@@ -1,0 +1,10 @@
+
+target/
+dbt_packages/
+logs/
+
+
+.python-version
+
+
+dev.duckdb
